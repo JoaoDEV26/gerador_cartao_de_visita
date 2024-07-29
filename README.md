@@ -16,13 +16,13 @@ A classe `CartaoVisita` é responsável por armazenar as informações do cartã
 
 #### Atributos
 
-*`nome`: Nome do titular do cartão.*
-*`cargo`: Cargo do titular.*
-*`empresa`: Nome da empresa.*
-*`endereco`: Endereço da empresa ou do titular.*
-*`email`: E-mail do titular.*
-*`telefone`: Telefone de contato.*
-*`outros`: Informações adicionais opcionais.*
+- *`nome`: Nome do titular do cartão.*
+- *`cargo`: Cargo do titular.*
+- *`empresa`: Nome da empresa.*
+- *`endereco`: Endereço da empresa ou do titular.*
+- *`email`: E-mail do titular.*
+- *`telefone`: Telefone de contato.*
+- *`outros`: Informações adicionais opcionais.*
 
 #### Métodos
 
@@ -49,8 +49,6 @@ python cartao_visita.py
 4. **Siga as instruções no console para inserir as informações do cartão de visita.**
 
 5. **Após criar o cartão, escolha se deseja salvá-lo em um arquivo de texto.**
-
-Se você quiser contribuir com este projeto, sinta-se à vontade para abrir um Pull Request ou criar uma Issue.
 
 ## Exemplo de Uso
 ```python
