@@ -26,15 +26,15 @@ A classe `CartaoVisita` é responsável por armazenar as informações do cartã
 
 #### Métodos
 
-*`__init__(self, nome, cargo, empresa, endereco, email, telefone, **kwargs)`: Construtor que inicializa os atributos do cartão.*
-*`exibir_cartao(self)`: Método para exibir o cartão de visita no console.*
+- *`__init__(self, nome, cargo, empresa, endereco, email, telefone, **kwargs)`: Construtor que inicializa os atributos do cartão.*
+- *`exibir_cartao(self)`: Método para exibir o cartão de visita no console.*
 
 
 ### Funções 
 
-*`criar_cartao()`: Função que solicita ao usuário as informações para criar um novo cartão de visita.*
-*`salvar_cartao(cartao)`: Função que salva as informações do cartão de visita em um arquivo de texto.*
-*`main()`: Função principal que coordena a criação, exibição e salvamento do cartão de visita.*
+- *`criar_cartao()`: Função que solicita ao usuário as informações para criar um novo cartão de visita.*
+- *`salvar_cartao(cartao)`: Função que salva as informações do cartão de visita em um arquivo de texto.*
+- *`main()`: Função principal que coordena a criação, exibição e salvamento do cartão de visita.*
 
 ## Como Executar
 1. **Certifique-se de ter o Python instalado em seu sistema.**
